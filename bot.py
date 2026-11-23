@@ -26,12 +26,12 @@ FISIER_CATALOG = "catalog.txt"
 FISIER_EXCEL = "comenzi_cofetarie.xlsx"
 FISIER_LOG = "conversatii.log"
 
-TELEFON_COFETARIE = "0722 489 110"
+TELEFON_COFETARIE = "0700 000 000"
 
-INFO_MAGAZIN = """Magazin: Cofetăria & Brutăria Artizanală „Cuptorul cu Poveste”, București (demo).
-Adresă: Calea Dorobanților nr. 114, Sector 1, București.
+INFO_MAGAZIN = """Magazin: Cofetăria & Brutăria Artizanală „Cofetăria Demo”, București (demo).
+Adresă: Strada Exemplu nr. 1.
 Program: Luni-Vineri 07:30 - 20:00, Sâmbătă-Duminică 08:30 - 19:00.
-Telefon: 0722 489 110.
+Telefon: 0700 000 000.
 Plăți acceptate: card, numerar, Apple Pay / Google Pay.
 Observații: Torturile întregi se comandă cu cel puțin 24 de ore înainte. Prăjiturile la bucată și cozonacii sunt disponibili zilnic."""
 
