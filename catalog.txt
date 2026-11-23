@@ -1,0 +1,14 @@
+# Format: Produs | Preț (lei) | Descriere scurtă
+# O linie per produs. Liniile care încep cu # sunt ignorate.
+# Înlocuiește cu produsele și prețurile reale ale cofetăriei.
+Tort ciocolată (1 kg) | 180 | Blat de cacao, cremă de ciocolată belgiană, necesită comandă cu 24h înainte
+Tort fructe de pădure (1 kg) | 190 | Blat vanilie, cremă mascarpone, fructe de pădure, necesită comandă cu 24h înainte
+Tort Diplomat (1 kg) | 160 | Clasic, cu cremă de vanilie și fructe confiate, necesită comandă cu 24h înainte
+Prăjitură Amandină | 14 | Bucată, disponibilă zilnic
+Prăjitură Eclere vanilie | 12 | Bucată, disponibilă zilnic
+Prăjitură Panna Cotta | 16 | Bucată, cu sos de fructe de pădure
+Papanași cu smântână și dulceață | 28 | Porție, se prepară la comandă
+Cozonac cu nucă (700 g) | 35 | Disponibil zilnic
+Cozonac cu rahat (700 g) | 38 | Disponibil zilnic
+Pâine de casă (500 g) | 9 | Coaptă zilnic
+Covrig cu susan | 4 | Bucată
